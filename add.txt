@@ -3,3 +3,5 @@ a=3
 b=1
 
 add a+b
+
+c=a+b
